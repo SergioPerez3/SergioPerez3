@@ -21,11 +21,11 @@
 
 ### 🍽️ [Tastefy](https://github.com/SergioPerez3/tastefy)
 Red social de recetas full-stack: autenticación con JWT, API REST, filtros, "me gusta",
-subida de fotos y un diseño propio en tema oscuro.
+subida de fotos, CRUD de recetas y un diseño propio en tema oscuro.
 `React` `Vite` `Node` `Express` `MongoDB` `Cloudinary` `Mocha`
 
 ### 🛒 [Webew](https://github.com/SergioPerez3/Webew-frontend)
-Plataforma para comprar y vender productos de segunda mano.
+Aplicación web del marketplace, donde los usuarios pueden explorar, buscar y gestionar productos: catálogo, búsqueda en tiempo real, favoritos y un panel de administración para el CRUD de productos.
 `React` `Vite` `Node` `Express` `MongoDB`
 
 ### ⚡ [Pokédex](https://github.com/SergioPerez3/Api-Pokemon)
@@ -41,17 +41,4 @@ Aplicación en React que consume la API de Pokémon.
 
 Si tienes una oferta, una duda o quieres charlar de código, escríbeme por LinkedIn o por correo.
 
-<!--
-**SergioPerez3/SergioPerez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
