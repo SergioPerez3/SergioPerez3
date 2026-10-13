@@ -3,7 +3,7 @@
 
 <p align="center">
   Me encanta construir aplicaciones web completas, desde la base de datos hasta la interfaz.<br>
-  Ahora mismo busco mi primera oportunidad como desarrollador.
+  Busco oportunidades como Desarrollador junior tanto Frontend como Backend.
 </p>
 
 <p align="center">
@@ -24,11 +24,11 @@ Red social de recetas full-stack: autenticación con JWT, API REST, filtros, "me
 subida de fotos y un diseño propio en tema oscuro.
 `React` `Vite` `Node` `Express` `MongoDB` `Cloudinary` `Mocha`
 
-### 🛒 [Webew](https://github.com/SergioPerez3/NOMBRE_DEL_REPO)
+### 🛒 [Webew](https://github.com/SergioPerez3/Webew-frontend)
 Plataforma para comprar y vender productos de segunda mano.
-`React` `Node` `Express` `MongoDB`
+`React` `Vite` `Node` `Express` `MongoDB`
 
-### ⚡ [Pokédex](https://github.com/SergioPerez3/NOMBRE_DEL_REPO)
+### ⚡ [Pokédex](https://github.com/SergioPerez3/Api-Pokemon)
 Aplicación en React que consume la API de Pokémon.
 `React` `API REST`
 
