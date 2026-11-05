@@ -24,6 +24,10 @@
 
 ## 🚀 Proyectos destacados
 
+### 🐾 [Huella](https://github.com/SergioPerez3/Huella)
+Aplicación para gestionar el día a día de tus mascotas: ficha, salud, calendario de tareas, gastos y tarjeta de emergencia con código QR para el collar. API REST con sesión por cookie `httpOnly`, subida de archivos, tests de integración y diseño responsive propio.
+`React` `Vite` `Node` `Express` `MongoDB` `Cloudinary` `Mocha`
+
 ### 🍽️ [Tastefy](https://github.com/SergioPerez3/tastefy)
 Red social de recetas full-stack: autenticación con JWT, API REST, filtros, "me gusta",
 subida de fotos, CRUD de recetas y un diseño propio en tema oscuro.
