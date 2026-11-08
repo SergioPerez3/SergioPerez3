@@ -3,7 +3,7 @@
 
 <p align="center">
   Me encanta construir aplicaciones web completas, desde la base de datos hasta la interfaz.<br>
-  Busco mi primera oportunidad como desarrollador full-stack, front o back.
+  Busco oportunidades como desarrollador full-stack, front o back.
 </p>
 
 <p align="center">
