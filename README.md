@@ -24,16 +24,17 @@
 
 ## 🚀 Proyectos destacados
 
-### 🐾 [Huella](https://github.com/SergioPerez3/Huella)
+### 🐾 [Huella](https://github.com/SergioPerez3/Huella)  &emsp;&emsp;&emsp;&emsp; <sub>🌐[Demo en vivo](https://huella-alpha.vercel.app)</sub>
+
 Aplicación para gestionar el día a día de tus mascotas: ficha, salud, calendario de tareas, gastos y tarjeta de emergencia con código QR para el collar. Incluye un buscador de servicios cercanos (veterinarios, peluquerías, residencias…) por ciudad o código postal, con datos abiertos de OpenStreetMap. API REST con sesión por cookie `httpOnly`, subida de archivos, tests de integración y diseño responsive propio.
 `React` `Vite` `Node` `Express` `MongoDB` `Cloudinary` `OpenStreetMap API` `Mocha`
 
-### 🍽️ [Tastefy](https://github.com/SergioPerez3/tastefy)
+### 🍽️ [Tastefy](https://github.com/SergioPerez3/tastefy) &emsp;&emsp;&emsp;&emsp;  <sub>🌐[Demo en vivo](https://tastefy-peach.vercel.app)</sub>
 Red social de recetas full-stack: autenticación con JWT, API REST, filtros, "me gusta",
 subida de fotos, CRUD de recetas y un diseño propio en tema oscuro.
 `React` `Vite` `Node` `Express` `MongoDB` `Cloudinary` `Mocha`
 
-### 🛒 [Webew](https://github.com/SergioPerez3/Webew-frontend)
+### 🛒 [Webew](https://github.com/SergioPerez3/Webew-frontend)  &emsp;&emsp;&emsp;&emsp;  <sub>🌐[Demo en vivo](https://frontend-proyecto-final-sergio.onrender.com)</sub>
 Aplicación web del marketplace, donde los usuarios pueden explorar, buscar y gestionar productos: catálogo, búsqueda en tiempo real, favoritos y un panel de administración para el CRUD de productos.
 `React` `Vite` `Node` `Express` `MongoDB`
 
